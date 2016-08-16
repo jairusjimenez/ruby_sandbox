@@ -3,6 +3,6 @@ The Odin Project's Ruby Programming Course <br>
 <hr>
 This is my solutions for the exercises that we encountered on the course. <br>
 <ol>
-	<li>1. Caesar Cipher</li>
-	<li>2. Stock Picker</li>
+	<li>Caesar Cipher</li>
+	<li>Stock Picker</li>
 </ol>
