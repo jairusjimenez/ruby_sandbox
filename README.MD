@@ -5,4 +5,5 @@ This is my solutions for the exercises that we encountered on the course. <br>
 <ol>
 	<li>Caesar Cipher</li>
 	<li>Stock Picker</li>
+	<li>Substrings</li>
 </ol>
