@@ -6,4 +6,5 @@ This is my solutions for the exercises that we encountered on the course. <br>
 	<li>Caesar Cipher</li>
 	<li>Stock Picker</li>
 	<li>Substrings</li>
+	<li>Bubble Sort</li>
 </ol>
