@@ -1,4 +1,4 @@
-The Odin Project's Ruby Programming Course <br>
+<h1>The Odin Project's Ruby Programming Course</h1><br>
 <i>made by: <b>Jairus G. Jimenez</b> </i>
 <hr>
 This is my solutions for the exercises that we encountered on the course. <br>
@@ -8,4 +8,5 @@ This is my solutions for the exercises that we encountered on the course. <br>
 	<li>Substrings</li>
 	<li>Bubble Sort</li>
 	<li>Enumerable</li>
+	<li>Tic-tac-toe</li>
 </ol>
