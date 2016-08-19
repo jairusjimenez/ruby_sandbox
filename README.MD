@@ -10,4 +10,11 @@ This is my solutions for the exercises that we encountered on the course. <br>
 	<li>Enumerable</li>
 	<li>Tic-tac-toe</li>
 	<li>Mastermind</li>
+	<li>
+		Recursion
+		<ul>
+			<li>Warmup: Fibonacci</li>
+			<li>Merge Sort</li>
+		</ul>
+	</li>
 </ol>
