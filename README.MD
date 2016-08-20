@@ -17,4 +17,5 @@ This is my solutions for the exercises that we encountered on the course. <br>
 			<li>Merge Sort</li>
 		</ul>
 	</li>
+	<li>Linked Lists</li>
 </ol>
