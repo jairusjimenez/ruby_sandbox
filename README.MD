@@ -18,4 +18,5 @@ This is my solutions for the exercises that we encountered on the course. <br>
 		</ul>
 	</li>
 	<li>Linked Lists</li>
+	<li>Binary Search Tree</li>
 </ol>
