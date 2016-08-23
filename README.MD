@@ -3,12 +3,27 @@
 <hr>
 This is a collection of solutions for the exercises that we encountered on the course. <br>
 <ol>
-	<li>Caesar Cipher</li>
+	<li>
+	Caesar Cipher
+	<ul>
+		<li>Added Rspec support</li>
+	</ul>
+	</li>
 	<li>Stock Picker</li>
 	<li>Substrings</li>
 	<li>Bubble Sort</li>
-	<li>Enumerable</li>
-	<li>Tic-tac-toe</li>
+	<li>
+	Enumerable
+	<ul>
+		<li>Added Rspec support</li>
+	</ul>
+	</li>
+	<li>
+	Tic-tac-toe
+	<ul>
+		<li>Added Rspec support</li>
+	</ul>
+	</li>
 	<li>Mastermind</li>
 	<li>
 		Recursion
